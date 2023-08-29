@@ -46,7 +46,7 @@ The Conversational AI Bot comprises the following components:
 
 **9. ACKNOWLEDGEMENTS:**
 
-- This project utilizes various open-source libraries and technologies, including Panel, langchain, OpenAI, and more. Special thanks to the developers of these tools for making this project possible.
+- This project utilizes various open-source libraries and technologies, including Langchain, OpenAI, and more. Special thanks to the developers of these tools for making this project possible.
 
 **10. LICENSE:**
 
