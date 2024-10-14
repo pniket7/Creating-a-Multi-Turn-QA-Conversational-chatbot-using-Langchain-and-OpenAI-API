@@ -1,6 +1,6 @@
 ﻿**DOCUMENTATION**
 
-**1.TITLE:**
+**1.TITL:**
 
 - Creating a QA Conversational chatbot using Langchain and OpenAI API
 
