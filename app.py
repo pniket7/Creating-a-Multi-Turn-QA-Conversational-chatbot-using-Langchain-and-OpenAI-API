@@ -7,15 +7,15 @@ Original file is located at
     https://colab.research.google.com/drive/1sSh20w-EH2vU2k-HQ2t1n9fKxphSAPYW
 """
 
-pip install openai
+#!pip install openai
 
-pip install langchain
+#!pip install langchain
 
-pip install pypdf
+#!pip install pypdf
 
-pip install chromadb
+#!pip install chromadb
 
-pip install tiktoken
+#!pip install tiktoken
 
 # Import libraries
 import os
